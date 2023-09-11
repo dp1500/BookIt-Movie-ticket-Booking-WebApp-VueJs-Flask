@@ -1,0 +1,12 @@
+Flask
+flask-cors
+flask_restful
+redis
+flask_jwt_extended
+sqlalchemy
+flask_sqlalchemy
+flask_login
+celery
+jinja2
+weasyprint
+flask_caching
